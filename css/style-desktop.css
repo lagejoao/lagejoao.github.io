@@ -42,7 +42,7 @@
 
 	.homepage #header
 	{
-		padding: 16em 0 12em 0;
+		padding: 4em 0 12em 0;
 	}
 
 /*********************************************************************************/
@@ -80,7 +80,7 @@
 	
 	#featured
 	{
-		padding: 6em 0em;
+		padding: 3em 0em;
 	}
 	
 	#featured h3
@@ -106,7 +106,7 @@
 	
 	#tweet
 	{
-		padding: 6em 0em;
+		padding: 3em 0em;
 	}
 
 	#tweet blockquote
